@@ -1,1 +1,34 @@
 # week4-grid-lab
+- git clone https://github.com/Kittiya66160018/week4-grid-lab
+- cd week4-grid-lab
+- code .
+- git add .
+- git push
+- git add .
+- git commit -m "เพมโครงสราง HTML พนฐาน"
+- git add .
+- git commit -m "เพม Grid Layout พนฐาน"
+- git add .
+- git commit -m "เพม Media Queries ส
+- git add .                         
+- git commit -m "เพมเนอหาจาลองส     
+- git add .
+- git commit -m "เพิ่ม CSS Animations"  
+- git add .
+- git commit -m "เพิ่ม Hover Effects"
+- git add .
+- git commit -m "init gallery"
+- git add .
+- git commit -m  "สร้างโครงสร้าง HTML สํ 
+- git add .
+- git commit -m  "เพิ่ม Masonry Layout ด ้วย CSS Grid"
+- git add .                                          
+- git commit -m  "เพิ่ม Media Queries สํ              
+- git add .
+- git commit -m "เพิ่มรูปภาพและ Lazy Loading"
+- git add .
+- git commit -m "เพม Hover และ Loading Animations"
+- git add .
+- git commit -m "เพิ่ม Filter Animations"
+- git add .
+- git commit -m "เชื่อมต่อ JavaScript"
